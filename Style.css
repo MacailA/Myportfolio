@@ -1,0 +1,62 @@
+
+body{
+    font-family: 'Cabin', sans-serif;
+
+}
+#myphoto{
+    display: inline;
+    text-align: center;
+    margin-left: 150px;
+    /* margin-top: 50px; */
+}
+
+#myname{
+    display: inline-block;
+    font-size: 50px;
+    text-align: center;
+    /* height: 100px; */
+    width: 550px;
+    margin-left: 70px;
+    /* margin-right: 150px; */
+    /* background-color: rgb(177, 142, 26); */
+    /* margin-bottom: 200px; */
+    position: absolute;
+}
+
+/* h1{
+    padding-bottom: 200px;
+} */
+
+#aboutmetitle{
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    width: 550px;
+    /* float: right; */
+    /* background-color: rgb(126, 220, 146); */
+    margin-right: 100px;
+    margin-top: 280px;
+    margin-left: 100px;
+}
+
+#contactme{
+    text-align: center;
+    font-size: 25px;
+    background-color: azure;
+    clear: both;
+    justify-content: center;
+}
+
+.bottomphotos{
+    display: inline-block;
+    text-align: center;
+    margin-left: 110px;
+    background-color: rgb(247, 121, 121);
+    justify-content: center;
+    text-align: center;
+
+}
+
+/* #bottom1{
+    margin: 0px 20px 0px 20px;
+} */
